@@ -1,0 +1,13 @@
+{
+  "name": "astar-visualizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive grid path-finding visualizer: A*, Dijkstra, greedy best-first and breadth-first search.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

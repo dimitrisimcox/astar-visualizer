@@ -73,3 +73,5 @@ The first version, in 2020, was a pygame script I wrote while working through a 
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+[Project guide](docs/project-guide.md) — purpose, now/next, current source map, onboarding and first journey.
